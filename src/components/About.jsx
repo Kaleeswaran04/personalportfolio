@@ -8,11 +8,12 @@ const About = () => {
         I am a Biomedical Engineering student with strong interest in 
         <span className="text-teal-300"> software development and IoT</span>.  
         I build full stack applications, create IoT solutions, and develop 
-        healthcare-focused technologies. My goal is to join 
-        <span className="text-teal-300"> Zoho</span> as a Full Stack Developer 
-        and contribute to impactful projects.
+        healthcare-focused technologies. My goal is to work as a 
+        <span className="text-teal-300"> Full Stack Developer</span> and 
+        contribute to impactful projects across industries.
       </p>
     </section>
+
   );
 };
 

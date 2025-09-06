@@ -6,23 +6,17 @@ const Projects = () => {
       title: "SkillUp Tracker App",
       description: "A console based learning app for learners to attempt quizzes and track scores.",
       tech: ["Java","MySQL"],
-      github: "https://github.com/yourusername/skillup-tracker",
-      demo: "#"
+      github: "https://github.com/Kaleeswaran04/SkillUpTracker",
+      demo: "/SkillUp_Tracker.pdf"
     },
     {
-      title: "Todo List",
+      title: "Todo List Web App",
       description: "A simple and responsive todo app with CRUD operations.",
       tech: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/yourusername/todo-list",
-      demo: "#"
+      github: "https://github.com/Kaleeswaran04/ToDo-app",
+      demo: "https://mytodoapp-ak.netlify.app/"
     },
-    {
-      title: "IoT Healthcare Monitor",
-      description: "An IoT project to monitor temperature and humidity with real-time alerts.",
-      tech: ["Arduino", "ESP32", "IoT"],
-      github: "https://github.com/yourusername/iot-healthcare",
-      demo: "#"
-    }
+    
   ];
 
   return (

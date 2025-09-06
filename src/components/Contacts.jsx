@@ -8,7 +8,7 @@ const Contacts = () => {
       <div className="space-y-2">
         <p>Email: {" "}<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleeswaran0905@gmail.com" className="text-teal-400 hover:underline" rel="noopener noreferrer" target="_blank">kaleeswaran0905@gmail.com</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/kalees4/" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">linkedin.com/kaleeswaran</a></p>
-        <p>GitHub: <a href="https://github.com/Kaleeswaran04" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">github.com/kaleeswaran</a></p>
+        {/*  */}
       </div>
     </section>
   );

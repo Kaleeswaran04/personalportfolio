@@ -11,7 +11,7 @@ const Profile = () => {
         <a href="#projects" className="px-4 py-2 bg-teal-400 text-black rounded-xl shadow-md hover:bg-teal-500">
           View Projects
         </a>
-        <a href="./KALEESWARAN_webdev.pdf" download className="px-4 py-2 border border-teal-400 rounded-xl hover:bg-teal-400 hover:text-black">
+        <a href="/KALEESWARAN_Resume.pdf" download className="px-4 py-2 border border-teal-400 rounded-xl hover:bg-teal-400 hover:text-black">
           Download Resume
         </a>
       </div>
